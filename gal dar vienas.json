@@ -6,7 +6,10 @@
       "name" : "CardGalleryItem",
       "id" : "4aeeeb84-7d19-428e-a6b8-b86e86ae504d",
       "props" : {
-        "children" : [ ]
+        "children" : [ ],
+        "title" : "ponas",
+        "subtitle" : "bulijonas",
+        "backgroundImageUrl" : "http://www.placecage.com/c/400/405"
       }
     }
   }, {
