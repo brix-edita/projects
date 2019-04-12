@@ -2,6 +2,33 @@
   "projectId" : "tests",
   "pages" : [ {
     "pageId" : "1555081034859",
+    "view" : {
+      "name" : "Layout",
+      "id" : "d0b5d565-7e4b-4bb9-b9cc-fe93f5d8b055",
+      "props" : {
+        "children" : [ ]
+      }
+    }
+  }, {
+    "pageId" : "1555081053121",
+    "view" : {
+      "name" : "CardGalleryItem",
+      "id" : "c551a220-6692-4f82-a3a2-24a18f7d7a90",
+      "props" : {
+        "children" : [ ]
+      }
+    }
+  }, {
+    "pageId" : "1555081054053",
+    "view" : {
+      "name" : "AddItem",
+      "id" : "7bb02484-59db-4fc6-b06b-f2556e958718",
+      "props" : {
+        "children" : [ ]
+      }
+    }
+  }, {
+    "pageId" : "1555081055153",
     "view" : { }
   } ]
 }
