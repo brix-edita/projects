@@ -21,8 +21,8 @@
   }, {
     "pageId" : "1555081054053",
     "view" : {
-      "name" : "AddItem",
-      "id" : "7bb02484-59db-4fc6-b06b-f2556e958718",
+      "name" : "Cell",
+      "id" : "93da4a92-2790-4c9c-8777-90a9caf2802a",
       "props" : {
         "children" : [ ]
       }
