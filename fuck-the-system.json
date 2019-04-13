@@ -2,6 +2,24 @@
   "projectId" : "fuck-the-system",
   "pages" : [ {
     "pageId" : "1555180719234",
-    "view" : { }
+    "view" : {
+      "name" : "Layout",
+      "id" : "d902ccb5-412b-44e1-b40a-be1818d94cf9",
+      "props" : {
+        "children" : [ {
+          "name" : "Cell",
+          "id" : "1b99d035-3bfd-495f-b947-d64440196d62",
+          "props" : {
+            "children" : [ {
+              "name" : "CardGalleryItem",
+              "id" : "2890422e-5819-4d07-83a6-e26f5bd92982",
+              "props" : {
+                "children" : [ ]
+              }
+            } ]
+          }
+        } ]
+      }
+    }
   } ]
 }
