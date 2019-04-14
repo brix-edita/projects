@@ -1,1 +1,1 @@
-{"projectId":"empty-project","pages":[{"pageId":"page-1","view":{}},{"pageId":"page-2","view":{}},{"pageId":"page-3","view":{}},{"pageId":"page-4","view":{}}],"timeEdited":1555274544906}
+{"projectId":"empty-project","pages":[{"pageId":"page-1","view":{"name":"Layout","id":"44540afd-8c47-4ec7-add0-81b600d2a9de","props":{"children":[],"gap":"30px","cols":"12"}}},{"pageId":"page-2","view":{}},{"pageId":"page-3","view":{}},{"pageId":"page-4","view":{}}],"timeEdited":1555274587704}
