@@ -1,7 +1,10 @@
 {
   "projectId" : "bamboozle",
   "pages" : [ {
-    "pageId" : "1555242335303",
+    "pageId" : "gallery",
+    "view" : { }
+  }, {
+    "pageId" : "preview",
     "view" : { }
   } ]
 }
