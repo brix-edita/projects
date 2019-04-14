@@ -6,5 +6,8 @@
   }, {
     "pageId" : "preview",
     "view" : { }
+  }, {
+    "pageId" : "add-new-image",
+    "view" : { }
   } ]
 }
