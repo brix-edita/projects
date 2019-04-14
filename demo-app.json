@@ -2,6 +2,42 @@
   "projectId" : "demo-app",
   "pages" : [ {
     "pageId" : "1555239335672",
-    "view" : { }
+    "view" : {
+      "name" : "Layout",
+      "id" : "2c9aabea-3469-47db-9f83-39cff82c95ff",
+      "props" : {
+        "children" : [ {
+          "name" : "Cell",
+          "id" : "41540cec-bbb1-4e01-a563-0e15addc69b3",
+          "props" : {
+            "children" : [ {
+              "name" : "CardGalleryItem",
+              "id" : "50e760fc-98b5-427a-9c3e-6720ebee3bae",
+              "props" : {
+                "children" : [ ],
+                "title" : "fyftyu"
+              }
+            } ],
+            "span" : "6"
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "ae591538-c796-4083-a815-e8d9dba735af",
+          "props" : {
+            "children" : [ {
+              "name" : "CardGalleryItem",
+              "id" : "d55a765d-eadc-48d9-a780-7b0a5718bffc",
+              "props" : {
+                "children" : [ ],
+                "title" : "jghg"
+              }
+            } ],
+            "span" : "6"
+          }
+        } ],
+        "gap" : "24",
+        "cols" : "12"
+      }
+    }
   } ]
 }
