@@ -1,13 +1,1 @@
-{
-  "projectId" : "bamboozle",
-  "pages" : [ {
-    "pageId" : "gallery",
-    "view" : { }
-  }, {
-    "pageId" : "preview",
-    "view" : { }
-  }, {
-    "pageId" : "add-new-image",
-    "view" : { }
-  } ]
-}
+{"projectId":"bamboozle","pages":[{"pageId":"gallery","view":{}},{"pageId":"preview","view":{"name":"Layout","id":"1eb4d11c-f2e3-487d-be4a-829b6a4312b9","props":{"children":[{"name":"Cell","id":"6c9e9fb8-5649-498f-a2b0-3011043b7974","props":{"children":[],"span":"3"}},{"name":"Cell","id":"99f868ba-aae7-4d8a-b50d-f017d78be013","props":{"children":[{"name":"Text","id":"b4a9846d-1883-4c4c-a2da-01cad142ccfb","props":{"children":[]}}],"span":"6"}},{"name":"Cell","id":"94e87a64-c3a9-4d37-87ee-7acc6c042b4e","props":{"children":[],"span":"3"}}],"cols":"12","gap":"24px"}}},{"pageId":"add-new-image","view":{}}],"timeCreated":1555242922161}
