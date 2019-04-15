@@ -2,7 +2,33 @@
   "projectId" : "judges",
   "pages" : [ {
     "pageId" : "1555327815898",
-    "view" : { }
+    "view" : {
+      "name" : "Layout",
+      "id" : "e39f8d79-69f8-4acc-a317-61c251cca3a5",
+      "props" : {
+        "children" : [ {
+          "name" : "Cell",
+          "id" : "666ab1ae-2add-44af-9ec0-7ce1c1499327",
+          "props" : {
+            "children" : [ {
+              "name" : "Cell",
+              "id" : "c7cd3fe1-a6b3-4992-b462-9e3185f5c7e0",
+              "props" : {
+                "children" : [ ]
+              }
+            } ]
+          }
+        }, {
+          "name" : "Button",
+          "id" : "3059d1ae-0fdc-4da4-8bac-f567a66d9c24",
+          "props" : {
+            "children" : [ "Click" ],
+            "size" : "large"
+          },
+          "repeated" : false
+        } ]
+      }
+    }
   } ],
-  "timeEdited" : 1555327816269
+  "timeEdited" : 1555327895393
 }
