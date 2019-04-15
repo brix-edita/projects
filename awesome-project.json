@@ -66,7 +66,7 @@
               "name" : "Heading",
               "id" : "439b3d90-47f5-4d1d-95d3-d1702e147607",
               "props" : {
-                "children" : [ "IMAGE PREVIEW" ]
+                "children" : [ "Image Preview" ]
               }
             } ]
           }
@@ -74,5 +74,5 @@
       }
     }
   } ],
-  "timeEdited" : 1555317880576
+  "timeEdited" : 1555327752885
 }
