@@ -1,8 +1,78 @@
 {
   "projectId" : "awesome-project",
   "pages" : [ {
-    "pageId" : "1555317752524",
-    "view" : { }
+    "pageId" : "gallery",
+    "view" : {
+      "name" : "Layout",
+      "id" : "013539e5-dabc-4966-a6ee-033d36879c52",
+      "props" : {
+        "children" : [ {
+          "name" : "Cell",
+          "id" : "c2bfb717-423c-462e-82dc-ef1a06f0e619",
+          "props" : {
+            "children" : [ {
+              "name" : "Heading",
+              "id" : "7eb5a2eb-45b1-4a41-914c-49f1f90e6739",
+              "props" : {
+                "children" : [ "Your gallery" ]
+              }
+            } ],
+            "span" : "12"
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "93412390-edfd-4589-8825-3a94cce7be27",
+          "props" : {
+            "children" : [ {
+              "name" : "CardGalleryItem",
+              "id" : "b96fabe3-020c-47c5-a330-e9f1c11e75eb",
+              "props" : {
+                "children" : [ ],
+                "title" : "Title",
+                "subtitle" : "Date Created"
+              }
+            } ],
+            "span" : "4"
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "6232b589-15d8-4227-b99c-d46ac6ce69ba",
+          "props" : {
+            "children" : [ {
+              "name" : "AddItem",
+              "id" : "300eea17-0b3c-4f0c-b70a-6f7971e50b6f",
+              "props" : {
+                "children" : [ ],
+                "size" : "large"
+              }
+            } ],
+            "span" : "4"
+          }
+        } ],
+        "gap" : "24px"
+      }
+    }
+  }, {
+    "pageId" : "image-preview",
+    "view" : {
+      "name" : "Layout",
+      "id" : "73f3d6d8-0f8f-4010-b848-4e237fb98758",
+      "props" : {
+        "children" : [ {
+          "name" : "Cell",
+          "id" : "cf290f20-0666-4967-9cc4-be2149fd9f81",
+          "props" : {
+            "children" : [ {
+              "name" : "Heading",
+              "id" : "439b3d90-47f5-4d1d-95d3-d1702e147607",
+              "props" : {
+                "children" : [ "IMAGE PREVIEW" ]
+              }
+            } ]
+          }
+        } ]
+      }
+    }
   } ],
-  "timeEdited" : 1555317753199
+  "timeEdited" : 1555317880576
 }
