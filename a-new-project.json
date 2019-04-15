@@ -2,7 +2,25 @@
   "projectId" : "a-new-project",
   "pages" : [ {
     "pageId" : "1555320809459",
-    "view" : { }
+    "view" : {
+      "name" : "Layout",
+      "id" : "51a82fa0-4c33-42f2-852c-62d093f65e57",
+      "props" : {
+        "children" : [ {
+          "name" : "Cell",
+          "id" : "6177e993-35dd-4cf7-8c24-a3a513a03ef7",
+          "props" : {
+            "children" : [ {
+              "name" : "Text",
+              "id" : "c880f7ae-8dbc-4c52-a6cf-9ddffa184c9f",
+              "props" : {
+                "children" : [ "alkdjalsjdalskjdlaksjd" ]
+              }
+            } ]
+          }
+        } ]
+      }
+    }
   } ],
-  "timeEdited" : 1555320812945
+  "timeEdited" : 1555320856640
 }
