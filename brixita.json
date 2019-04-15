@@ -2,7 +2,13 @@
   "projectId" : "brixita",
   "pages" : [ {
     "pageId" : "1555333155809",
-    "view" : { }
+    "view" : {
+      "name" : "Layout",
+      "id" : "02c46fd4-1a6f-417a-a508-3768f0ca018a",
+      "props" : {
+        "children" : [ ]
+      }
+    }
   } ],
-  "timeEdited" : 1555333164160
+  "timeEdited" : 1555333192707
 }
