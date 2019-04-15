@@ -1,8 +1,37 @@
 {
   "projectId" : "bombapp",
   "pages" : [ {
-    "pageId" : "1555327693788",
-    "view" : { }
+    "pageId" : "pageas",
+    "view" : {
+      "name" : "Layout",
+      "id" : "5c376d52-61fa-469a-b3ae-3458d342bf7d",
+      "props" : {
+        "children" : [ {
+          "name" : "Cell",
+          "id" : "a9bde9e8-8167-4938-b311-4c62cac4f3c5",
+          "props" : {
+            "children" : [ ],
+            "span" : "sdasdsad"
+          }
+        }, {
+          "name" : "FormField",
+          "id" : "c35909c7-6a98-4de0-957d-77556aaee419",
+          "props" : {
+            "children" : [ ],
+            "label" : "adadda",
+            "infoContent" : "adsadasd"
+          }
+        }, {
+          "name" : "Button",
+          "id" : "7ca13960-d06d-4eec-978e-79abcaf5e085",
+          "props" : {
+            "children" : [ "asdasd" ]
+          }
+        } ],
+        "gap" : "3",
+        "cols" : "2"
+      }
+    }
   } ],
-  "timeEdited" : 1555327694117
+  "timeEdited" : 1555327799357
 }
