@@ -3,12 +3,25 @@
   "pages" : [ {
     "pageId" : "1555333155809",
     "view" : {
-      "name" : "Layout",
-      "id" : "02c46fd4-1a6f-417a-a508-3768f0ca018a",
+      "name" : "CardGalleryItem",
+      "id" : "77ec201e-8db4-4dab-8509-3c8cb9a68e91",
       "props" : {
-        "children" : [ ]
+        "primaryActionProps" : "222",
+        "subtitle" : "222",
+        "children" : [ ],
+        "backgroundImageUrl" : "222",
+        "title" : "2222"
       }
     }
+  }, {
+    "pageId" : "1555333254121",
+    "view" : { }
+  }, {
+    "pageId" : "1555333255480",
+    "view" : { }
+  }, {
+    "pageId" : "1555333256304",
+    "view" : { }
   } ],
-  "timeEdited" : 1555333192707
+  "timeEdited" : 1555333268790
 }
