@@ -1,8 +1,56 @@
 {
   "projectId" : "design-systems",
   "pages" : [ {
-    "pageId" : "1555401959976",
-    "view" : { }
+    "pageId" : "gallery",
+    "view" : {
+      "name" : "Layout",
+      "id" : "ddcf37ee-10d2-40ec-8a9e-def467f38fbd",
+      "props" : {
+        "children" : [ {
+          "name" : "Cell",
+          "id" : "27528b27-4405-414e-be62-8c2b7369535c",
+          "props" : {
+            "children" : [ {
+              "name" : "Heading",
+              "id" : "12539b95-48f5-476f-b6be-2c5b02d226ca",
+              "props" : {
+                "children" : [ "Your gallery" ]
+              }
+            } ]
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "8a222bd6-ea2c-4078-af5a-a11d223e84b4",
+          "props" : {
+            "children" : [ {
+              "name" : "CardGalleryItem",
+              "id" : "c4e3ad43-8691-4bce-9d52-4256906ce587",
+              "props" : {
+                "children" : [ ],
+                "title" : "Tile",
+                "subtitle" : "subtile",
+                "backgroundImageUrl" : "https://lh3.googleusercontent.com/sEFzHk_JrTLOdVIf6aE2qenlhE6dhcdg9J4Vb0xWGj5LTSlKR6-qHbVaKCcR2y0SUAzH014x=w640-h400-e365"
+              }
+            } ],
+            "span" : "4"
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "bfaf4add-955e-4ad9-b43f-6112226c45f1",
+          "props" : {
+            "children" : [ {
+              "name" : "AddItem",
+              "id" : "7b2f81ad-82b3-40c9-95b0-6dfe085fdcdf",
+              "props" : {
+                "children" : [ ],
+                "size" : "large"
+              }
+            } ],
+            "span" : "4"
+          }
+        } ]
+      }
+    }
   } ],
-  "timeEdited" : 1555401960778
+  "timeEdited" : 1555402071452
 }
