@@ -26,7 +26,10 @@
               "name" : "CardGalleryItem",
               "id" : "899be11f-de82-42b3-a063-3656aa738ead",
               "props" : {
-                "children" : [ ]
+                "children" : [ ],
+                "backgroundImageUrl" : "https://images.pexels.com/photos/761142/pexels-photo-761142.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "title" : "Title",
+                "subtitle" : "Date created"
               }
             } ],
             "span" : "4"
@@ -48,5 +51,5 @@
       }
     }
   } ],
-  "timeEdited" : 1555413868152
+  "timeEdited" : 1555413890286
 }
