@@ -27,7 +27,7 @@
               "id" : "899be11f-de82-42b3-a063-3656aa738ead",
               "props" : {
                 "children" : [ ],
-                "backgroundImageUrl" : "https://images.pexels.com/photos/761142/pexels-photo-761142.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "backgroundImageUrl" : "",
                 "title" : "Title",
                 "subtitle" : "Date created"
               }
@@ -38,18 +38,12 @@
           "name" : "Cell",
           "id" : "0c2f83ca-d10c-4551-b003-3b0889f6344d",
           "props" : {
-            "children" : [ {
-              "name" : "AddItem",
-              "id" : "25a0c840-6300-4906-ae81-dec341364f79",
-              "props" : {
-                "children" : [ ]
-              }
-            } ],
+            "children" : [ ],
             "span" : "4"
           }
         } ]
       }
     }
   } ],
-  "timeEdited" : 1555413890286
+  "timeEdited" : 1555414225040
 }
