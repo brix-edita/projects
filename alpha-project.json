@@ -35,12 +35,18 @@
           "name" : "Cell",
           "id" : "0c2f83ca-d10c-4551-b003-3b0889f6344d",
           "props" : {
-            "children" : [ ],
+            "children" : [ {
+              "name" : "AddItem",
+              "id" : "25a0c840-6300-4906-ae81-dec341364f79",
+              "props" : {
+                "children" : [ ]
+              }
+            } ],
             "span" : "4"
           }
         } ]
       }
     }
   } ],
-  "timeEdited" : 1555413669167
+  "timeEdited" : 1555413868152
 }
