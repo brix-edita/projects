@@ -187,7 +187,8 @@
                       "name" : "Button",
                       "id" : "54612902-272f-4094-a560-08fcbef29865",
                       "props" : {
-                        "children" : [ ]
+                        "children" : [ "Cancel" ],
+                        "priority" : "secondary"
                       }
                     } ],
                     "span" : "1"
@@ -200,7 +201,7 @@
                       "name" : "Button",
                       "id" : "93eb4edd-69b8-4b71-9aa9-b224afce71f1",
                       "props" : {
-                        "children" : [ ]
+                        "children" : [ "Save" ]
                       }
                     } ],
                     "span" : "1"
@@ -209,14 +210,14 @@
                 "alignItems" : "",
                 "justifyItems" : "",
                 "gap" : "12px",
-                "cols" : "2"
+                "cols" : "12"
               }
             } ],
-            "span" : "6"
+            "span" : "12"
           }
         } ]
       }
     }
   } ],
-  "timeEdited" : 1555410913021
+  "timeEdited" : 1555411105814
 }
