@@ -1,8 +1,46 @@
 {
   "projectId" : "alpha-project",
   "pages" : [ {
-    "pageId" : "1555413589668",
-    "view" : { }
+    "pageId" : "gallery",
+    "view" : {
+      "name" : "Layout",
+      "id" : "1f79e33a-ba06-468b-9619-2a9058164464",
+      "props" : {
+        "children" : [ {
+          "name" : "Cell",
+          "id" : "1fec1d94-6170-440b-b3d3-89707b6cc36c",
+          "props" : {
+            "children" : [ {
+              "name" : "Heading",
+              "id" : "f595336b-04c1-4668-892f-fcb7ad1e1d26",
+              "props" : {
+                "children" : [ "Your gallery" ]
+              }
+            } ]
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "45a8290e-d65a-4c16-9251-1e67ebd7e45e",
+          "props" : {
+            "children" : [ {
+              "name" : "CardGalleryItem",
+              "id" : "899be11f-de82-42b3-a063-3656aa738ead",
+              "props" : {
+                "children" : [ ]
+              }
+            } ],
+            "span" : "4"
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "0c2f83ca-d10c-4551-b003-3b0889f6344d",
+          "props" : {
+            "children" : [ ],
+            "span" : "4"
+          }
+        } ]
+      }
+    }
   } ],
-  "timeEdited" : 1555413590305
+  "timeEdited" : 1555413669167
 }
