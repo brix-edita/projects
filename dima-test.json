@@ -2,7 +2,20 @@
   "projectId" : "dima-test",
   "pages" : [ {
     "pageId" : "1555412188840",
+    "view" : {
+      "name" : "img",
+      "id" : "9ddf1591-d44a-4879-ad45-0f486befe5df",
+      "props" : {
+        "children" : [ ],
+        "src" : "https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "width" : "1024",
+        "height" : "768"
+      },
+      "repeated" : false
+    }
+  }, {
+    "pageId" : "1555412216357",
     "view" : { }
   } ],
-  "timeEdited" : 1555412189165
+  "timeEdited" : 1555412317237
 }
