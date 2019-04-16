@@ -26,11 +26,14 @@
               "name" : "CardGalleryItem",
               "id" : "c4e3ad43-8691-4bce-9d52-4256906ce587",
               "props" : {
-                "children" : [ ],
-                "title" : "Tile",
+                "primaryActionProps" : "label: 'Button',     onClick: () => {}  ",
                 "subtitle" : "subtile",
-                "backgroundImageUrl" : "https://lh3.googleusercontent.com/sEFzHk_JrTLOdVIf6aE2qenlhE6dhcdg9J4Vb0xWGj5LTSlKR6-qHbVaKCcR2y0SUAzH014x=w640-h400-e365"
-              }
+                "children" : [ ],
+                "secondaryActionProps" : "",
+                "backgroundImageUrl" : "https://lh3.googleusercontent.com/sEFzHk_JrTLOdVIf6aE2qenlhE6dhcdg9J4Vb0xWGj5LTSlKR6-qHbVaKCcR2y0SUAzH014x=w640-h400-e365",
+                "title" : "Tile"
+              },
+              "repeated" : false
             } ],
             "span" : "4"
           }
@@ -51,6 +54,169 @@
         } ]
       }
     }
+  }, {
+    "pageId" : "form",
+    "view" : {
+      "name" : "Layout",
+      "id" : "c076e8cc-7b16-4035-965f-b551b59b834f",
+      "props" : {
+        "children" : [ {
+          "name" : "Cell",
+          "id" : "26ac7ea4-3297-474d-8c1a-cbeb491e94a4",
+          "props" : {
+            "children" : [ {
+              "name" : "Heading",
+              "id" : "982844f2-7c69-461e-8562-e3289933a5cb",
+              "props" : {
+                "children" : [ "Title" ]
+              }
+            } ]
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "9775463e-4cb8-4f0a-a75c-764b5611779e",
+          "props" : {
+            "children" : [ {
+              "name" : "FormField",
+              "id" : "c028d05f-a91f-4f3c-90ff-a41c36a7d528",
+              "props" : {
+                "children" : [ {
+                  "name" : "Input",
+                  "id" : "0dc4295c-4434-4e45-8677-561bbc5b7d1b",
+                  "props" : {
+                    "children" : [ ]
+                  }
+                } ],
+                "label" : "First Name"
+              }
+            } ],
+            "span" : "6"
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "ca0034f5-0411-4fd9-8656-e68dd1e9b102",
+          "props" : {
+            "children" : [ {
+              "name" : "FormField",
+              "id" : "7275073b-b535-42f3-95ba-5c1faf6d06d8",
+              "props" : {
+                "children" : [ {
+                  "name" : "Input",
+                  "id" : "9226df3e-3572-457b-acea-82fffbcff4f2",
+                  "props" : {
+                    "children" : [ ]
+                  }
+                } ],
+                "label" : "Last Name"
+              }
+            } ],
+            "span" : "6"
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "2e33b063-f9ac-4ccd-bd61-14f500a656e3",
+          "props" : {
+            "children" : [ {
+              "name" : "FormField",
+              "id" : "d56b85ca-1705-4710-bc20-2687bb9b7f53",
+              "props" : {
+                "children" : [ {
+                  "name" : "Input",
+                  "id" : "32bcbcfa-731a-465d-88d5-983327b392de",
+                  "props" : {
+                    "children" : [ ]
+                  }
+                } ],
+                "label" : "Street Address"
+              }
+            } ]
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "9fe8ef07-5419-4704-bc21-5641f8112935",
+          "props" : {
+            "children" : [ {
+              "name" : "FormField",
+              "id" : "f5864128-cb2a-4bc9-a2fb-e033f97be4d4",
+              "props" : {
+                "children" : [ {
+                  "name" : "Input",
+                  "id" : "404b1965-7f7c-4be2-a707-98092b041c82",
+                  "props" : {
+                    "children" : [ ]
+                  }
+                } ],
+                "label" : "Zip Code"
+              }
+            } ],
+            "span" : "4"
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "fe4f5f64-1474-488e-8ff7-3727775c93a1",
+          "props" : {
+            "children" : [ {
+              "name" : "FormField",
+              "id" : "d8a9391d-2ddc-4006-9daa-16c21a38f0b2",
+              "props" : {
+                "children" : [ {
+                  "name" : "Input",
+                  "id" : "32b180d4-cab7-4255-8fb9-515d6fbdca14",
+                  "props" : {
+                    "children" : [ ]
+                  }
+                } ],
+                "label" : "Country"
+              }
+            } ],
+            "span" : "8"
+          }
+        }, {
+          "name" : "Cell",
+          "id" : "ef94f048-aad0-47d2-bda1-eaa8031988da",
+          "props" : {
+            "children" : [ {
+              "name" : "Layout",
+              "id" : "4d5f94e7-0342-43ae-ac22-d758bf3078a9",
+              "props" : {
+                "children" : [ {
+                  "name" : "Cell",
+                  "id" : "afb8ac39-d4bf-41b2-83aa-c33499fff432",
+                  "props" : {
+                    "children" : [ {
+                      "name" : "Button",
+                      "id" : "54612902-272f-4094-a560-08fcbef29865",
+                      "props" : {
+                        "children" : [ ]
+                      }
+                    } ],
+                    "span" : "1"
+                  }
+                }, {
+                  "name" : "Cell",
+                  "id" : "762c52b0-4c3e-4fd7-a3db-d356354d9415",
+                  "props" : {
+                    "children" : [ {
+                      "name" : "Button",
+                      "id" : "93eb4edd-69b8-4b71-9aa9-b224afce71f1",
+                      "props" : {
+                        "children" : [ ]
+                      }
+                    } ],
+                    "span" : "1"
+                  }
+                } ],
+                "alignItems" : "",
+                "justifyItems" : "",
+                "gap" : "12px",
+                "cols" : "2"
+              }
+            } ],
+            "span" : "6"
+          }
+        } ]
+      }
+    }
   } ],
-  "timeEdited" : 1555402071452
+  "timeEdited" : 1555410913021
 }
