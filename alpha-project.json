@@ -27,7 +27,7 @@
               "id" : "899be11f-de82-42b3-a063-3656aa738ead",
               "props" : {
                 "children" : [ ],
-                "backgroundImageUrl" : "",
+                "backgroundImageUrl" : "http://",
                 "title" : "Title",
                 "subtitle" : "Date created"
               }
@@ -45,5 +45,5 @@
       }
     }
   } ],
-  "timeEdited" : 1555414225040
+  "timeEdited" : 1555414250326
 }
